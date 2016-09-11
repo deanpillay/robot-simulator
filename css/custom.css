@@ -1,4 +1,13 @@
 canvas {
     border: 1px solid #eee;
-    background: #f4f4f4;
+}
+
+#error {
+    color: red;
+    font-weight: 600;
+}
+
+#report {
+    color: blue;
+    font-weight: 600;
 }
